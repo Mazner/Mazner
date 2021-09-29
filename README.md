@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos!
 - 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning HTML and JavaScript
+- 🌱 I’m currently learning C++ and SQL
 - 📫 How to reach me ...
 
 <!---
