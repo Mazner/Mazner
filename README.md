@@ -3,8 +3,9 @@
 
 ***(Yes, I am a coffee addict)***
 
-I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).<img src="logo.png" width="40" height="25" />
-my areas
+I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).
+
+My current goal is to learn about Data science, A.I and machine learning (that's why python picked my interest).
 
 ## I'm familiarized with:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://github.com/Mazner/C-language-adventures)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" />](https://github.com/Mazner/Banco-de-dados-projeto-)
