@@ -3,6 +3,9 @@
 
 ***(Yes, I am a coffee addict)***
 
+I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).<img src="logo.png" width="40 height="40" />
+my areas
+
 ## I'm familiarized with:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://github.com/Mazner/C-language-adventures)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" />](https://github.com/Mazner/Banco-de-dados-projeto-)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />](https://github.com/Mazner/html-learning)
@@ -18,7 +21,10 @@
 
 
 #### Click on the icons to see my latest project on the language
-          
+
+## I can fluently speak 
+
+  <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">  <img align="center" alt="reino-unido" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
 
 ## Take a look on what i've done!
 <div>
