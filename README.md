@@ -3,7 +3,7 @@
 
 ***(Yes, I am a coffee addict)***
 
-I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).<img src="logo.png" width="40 height="40" />
+I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).<img src="logo.png" width="40" height="25" />
 my areas
 
 ## I'm familiarized with:
