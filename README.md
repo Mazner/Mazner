@@ -14,6 +14,8 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://github.com/Mazner/Python-Learning)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />](https://github.com/UTFome)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://github.com/UTFome)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40 />](https://github.com/Mazner/Cpp-adventures)
+
 
 #### Click on the icons to see my latest project on the language
           
