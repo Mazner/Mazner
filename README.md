@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Marcos!
+### Hi, I’m Marcos!
+<img src="/assets/images/octocat.png" width="40" height="40" />
 - 👀 I’m interested in Artificial Inteligence
 ### I'm quite good at:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" />
