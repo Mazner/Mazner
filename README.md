@@ -2,7 +2,7 @@
 <img src="octocat.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Marcos's octocat">
 
 <p align="left"> 
-I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).
+I'm currently doing a bachelors in computer science, at Universidade Tecnológica Federal do Paraná (UTFPR for short).
 My current goal is to learn about Data science, A.I and machine learning (that's why python picked my interest).
 </p>
 
