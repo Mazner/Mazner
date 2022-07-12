@@ -1,5 +1,5 @@
 # Hi, I’m Marcos! Welcome to my GitHub page!
-<img src="octocat.png" width="400" height="400" />
+<img src="octocat.png" width="300" height="300" />
 
 ***(Yes, I am a coffee addict)***
 
