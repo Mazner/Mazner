@@ -1,11 +1,10 @@
 # Hi, I’m Marcos! Welcome to my GitHub page!
-<img src="octocat.png" width="300" height="300" />
+<img src="octocat.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Marcos's octocat">
 
-***(Yes, I am a coffee addict)***
-
+<p align="left"> 
 I'm currently doing a bachelors in computer science, on Universidade Tecnológica Federal do Paraná (UTFPR for short).
-
 My current goal is to learn about Data science, A.I and machine learning (that's why python picked my interest).
+</p>
 
 ## I'm familiarized with:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://github.com/Mazner/C-language-adventures)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" />](https://github.com/Mazner/Banco-de-dados-projeto-)
