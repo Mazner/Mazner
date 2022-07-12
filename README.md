@@ -10,7 +10,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
 
 ## I'm currently learning:
-####Click on the images to see my latest project on the languages
+
+###Click on the images to see my latest project on the languages
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://github.com/Mazner/Python-Learning)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />](https://github.com/UTFome)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://github.com/UTFome)
           
