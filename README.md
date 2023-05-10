@@ -10,13 +10,12 @@ My current goal is to learn about Data science, A.I and machine learning (that's
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />](https://github.com/Mazner/C-language-adventures)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" />](https://github.com/Mazner/Banco-de-dados-projeto-)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />](https://github.com/Mazner/html-learning)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />](https://github.com/Mazner/html-learning)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://github.com/Mazner/Python-Learning)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />](https://github.com/UTFome)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://github.com/UTFome)
 
 #### Click on the icons to see my latest project on the language
 
 ## I'm currently learning:
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://github.com/Mazner/Python-Learning)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />](https://github.com/UTFome)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />](https://github.com/UTFome)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://github.com/Mazner/Cpp-adventures)
 
 
