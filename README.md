@@ -28,7 +28,6 @@ My main interest areas are Data Science, Machine Learning, AI and backend develo
 
 <!-- Web Scraping -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg" width="40" height="40" />]()
 
 <!-- Infra / Cloud -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />]()
