@@ -1,10 +1,12 @@
 # Hi, I’m Marcos! Welcome to my GitHub page!
-<img src="octocat.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Marcos's octocat">
+<img src="octocat-1762298088725.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Marcos's octocat">
 
 <p align="left"> 
-I'm currently doing a bachelors in computer science, at Universidade Tecnológica Federal do Paraná (UTFPR for short).
-My current goal is to learn about Data science, A.I and machine learning (that's why python picked my interest).
+I'm a recently graduated Computer Scientist from the Federal University of Technology – Paraná (UTFPR).
+My main interest areas are Data Science, Machine Learning, AI and backend development. Python was the door that introduced me to this world — and since then I've been constantly learning and building projects around data.
 </p>
+
+<br><br>
 
 ## I'm familiarized with:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://github.com/Mazner/Python-Learning)
@@ -29,26 +31,28 @@ My current goal is to learn about Data science, A.I and machine learning (that's
 <!-- Backend API -->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />]()
 
-
 #### Click on the icons to see my latest project on the language
 
 ## I'm currently learning:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://github.com/Mazner/Cpp-adventures)
 
-
 #### Click on the icons to see my latest project on the language
+
+<br><br>
 
 ## I can fluently speak 
 
   <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">  <img align="center" alt="reino-unido" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
 
-## Take a look on what i've done!
-<div>
+<br>
+
+## Take a look on what I've done!
+<div style="display: inline-block;">
 <a href="https://github.com/mazner">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazner&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
+
 ## You can contact me via:
 
 <div>
@@ -56,4 +60,3 @@ My current goal is to learn about Data science, A.I and machine learning (that's
 <a href = "mailto:marcosbezner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-bezner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
