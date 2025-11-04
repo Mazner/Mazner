@@ -30,14 +30,9 @@ My main interest areas are Data Science, Machine Learning, AI and backend develo
 <br clear="right"/>
 #### Click on the icons to see my latest project on the language
 
-## I'm currently learning:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />](https://github.com/Mazner/Cpp-adventures)
-
-#### Click on the icons to see my latest project on the language
-
 <br><br>
 
-## I can fluently speak 
+## I can communicate in 
 
   <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">  <img align="center" alt="reino-unido" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
 
