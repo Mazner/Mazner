@@ -27,9 +27,6 @@ My main interest areas are Data Science, Machine Learning, AI and backend develo
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />]()
 
-<br clear="right"/>
-#### Click on the icons to see my latest project on the language
-
 <br><br>
 
 ## I can communicate in 
